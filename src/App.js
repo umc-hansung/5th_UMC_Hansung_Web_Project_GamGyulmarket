@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      hello world
+      UMC_Hansung Web 화이팅~!~!~!~!
     </div>
   );
 }
